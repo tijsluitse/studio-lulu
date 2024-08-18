@@ -43,12 +43,11 @@
         "text",
         "button"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/studio-lulu_photo-6.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 30,
         "image_height": "large",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-3",
@@ -206,7 +205,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Volledig handgeschilderd en gepersonaliseerd met naam of ontwerp naar keuze<\/p>",
+            "text": "<p>Handgeschilderd en gepersonaliseerd<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -224,7 +223,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Perfect als kraamcadeau of voor speciale gelegenheden<\/p>",
+            "text": "<p>Perfect als kraamcadeau of voor je eigen gezin<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -233,7 +232,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Levertijd: 2-3 weken<\/p>",
+            "text": "<p>Levering gemiddeld<br\/>binnen 4 tot 6 weken<\/p>",
             "link_label": "",
             "link": ""
           }
