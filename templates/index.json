@@ -43,15 +43,16 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/studio-lulu_photo-6.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -60,20 +61,20 @@
     "image_with_text_PP79rf": {
       "type": "image-with-text",
       "blocks": {
+        "heading_crrN3n": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unieke & gepersonaliseerde kinderstoelen",
+            "heading_size": "h2"
+          }
+        },
         "caption_ACdaJj": {
           "type": "caption",
           "disabled": true,
           "settings": {
-            "caption": "Welkom",
+            "caption": "Welkom bij Studio LULU",
             "text_style": "subtitle",
             "text_size": "medium"
-          }
-        },
-        "heading_crrN3n": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welkom bij Studio LULU",
-            "heading_size": "h1"
           }
         },
         "text_pKJrnN": {
@@ -93,14 +94,14 @@
         }
       },
       "block_order": [
-        "caption_ACdaJj",
         "heading_crrN3n",
+        "caption_ACdaJj",
         "text_pKJrnN",
         "button_wW3UhH"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/studio-lulu_photo-5.jpg",
-        "height": "medium",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",

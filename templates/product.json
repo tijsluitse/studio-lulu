@@ -14,21 +14,15 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "★ 5 sterren uit 10 reviews",
             "text_style": "uppercase"
           }
         },
         "title": {
           "type": "title",
           "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
           }
         },
         "price": {
@@ -52,8 +46,20 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "icon_with_text_3hexXH": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Elk ontwerp is uniek",
+            "icon_2": "box",
+            "heading_2": "Levering binnen 6 weken",
+            "icon_3": "star",
+            "heading_3": "Als cadeau of voor jezelf"
           }
         },
         "description": {
@@ -113,11 +119,11 @@
       "block_order": [
         "vendor",
         "title",
-        "caption",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "icon_with_text_3hexXH",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
