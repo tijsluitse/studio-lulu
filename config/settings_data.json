@@ -9,12 +9,12 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo-dark-final.svg",
+    "logo": "shopify:\/\/shop_images\/logo-colored.svg",
     "logo_width": 130,
-    "favicon": "shopify:\/\/shop_images\/favicon.png",
-    "type_header_font": "assistant_n4",
+    "favicon": "shopify:\/\/shop_images\/favicon_186d71ff-27ba-44db-8a4b-61dc758c57c1.png",
+    "type_header_font": "basic_commercial_soft_rounded_n4",
     "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "inter_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -23,11 +23,11 @@
     "animations_hover_elements": "vertical-lift",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 0,
+    "buttons_radius": 6,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
-    "buttons_shadow_blur": 5,
+    "buttons_shadow_blur": 0,
     "variant_pills_border_thickness": 1,
     "variant_pills_border_opacity": 55,
     "variant_pills_radius": 40,
@@ -176,7 +176,7 @@
       },
       "scheme-4": {
         "settings": {
-          "background": "#b266e4",
+          "background": "#9256d8",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffad00",
