@@ -17,21 +17,21 @@
         "announcement_eApFYD": {
           "type": "announcement",
           "settings": {
-            "text": "☀︎ Persoonlijk afgeleverd ☀︎",
+            "text": "☀︎ Ophalen & bezorging mogelijk ☀︎",
             "link": ""
           }
         },
         "announcement_7yLXEm": {
           "type": "announcement",
           "settings": {
-            "text": "☻ Pre-order nu voor September ☻",
+            "text": "☻ Een uniek kraamcadeau ☻",
             "link": ""
           }
         },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "★ Levering: 4-6 weken ★",
+            "text": "★ Levering 4-6 weken ★",
             "link": ""
           }
         }
