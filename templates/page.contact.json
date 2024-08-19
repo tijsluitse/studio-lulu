@@ -1,7 +1,47 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
+    "rich_text_LxkqJc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_N7gyFR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Neem contact op",
+            "heading_size": "h1"
+          }
+        },
+        "text_D7rft9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Heb je vragen of wil je een samenwerking aan gaan? Laat hieronder je gegevens achter of neem direct contact op met <a href=\"mailto:info@studio-lulu.nl\" title=\"Contact Email\">info@studio-lulu.nl<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_N7gyFR",
+        "text_D7rft9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 44
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
@@ -13,12 +53,13 @@
         "heading": "",
         "heading_size": "h1",
         "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
+    "rich_text_LxkqJc",
     "main",
     "form"
   ]
