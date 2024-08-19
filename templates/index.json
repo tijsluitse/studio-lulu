@@ -15,15 +15,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Geef een unieke & gepersonaliseerde kinderstoel",
+            "heading": "Duurzaam en origineel: LULU’s gepersonaliseerde kinderstoelen.",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Geef een blijvend cadeau dat zowel functioneel als persoonlijk is. Handgeschilderd en speciaal voor jou gemaakt.",
-            "text_style": "body"
+            "text": "Op zoek naar een uniek cadeau? Say no more!",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -31,10 +31,10 @@
           "settings": {
             "button_label_1": "Bekijk de stoelen",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "Mijn verhaal",
-            "button_link_2": "shopify:\/\/pages\/contact",
-            "button_style_secondary_2": false
+            "button_link_2": "shopify:\/\/pages\/mijn-verhaal",
+            "button_style_secondary_2": true
           }
         }
       },
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/studio-lulu_photo-6.jpg",
+        "image": "shopify:\/\/shop_images\/studio-lulu_photo-4.jpg",
         "image_overlay_opacity": 30,
         "image_height": "large",
         "desktop_content_position": "middle-left",
