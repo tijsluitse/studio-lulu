@@ -98,6 +98,7 @@
         "text_pKJrnN",
         "button_wW3UhH"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/studio-lulu_photo-5.jpg",
         "height": "large",
@@ -116,7 +117,6 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -126,7 +126,7 @@
         "collection": "all",
         "products_to_show": 2,
         "columns_desktop": 2,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
