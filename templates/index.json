@@ -22,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Op zoek naar een uniek cadeau? Say no more!",
+            "text": "Op zoek naar een uniek cadeau? Say no more! LULU geeft je oude stoel een tweede leven. Een nieuwe stoel laten beschilderen kan natuurlijk ook!",
             "text_style": "subtitle"
           }
         },
@@ -159,7 +159,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Gemaakt van hoogwaardig en duurzaam materiaal<\/p>",
+            "text": "<p>Duurzaam en hoogwaardig<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -168,7 +168,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Perfect als kraamcadeau of voor je eigen gezin<\/p>",
+            "text": "<p>Perfect als kraamcadeau of verjaardagscadeau<\/p>",
             "link_label": "",
             "link": ""
           }
