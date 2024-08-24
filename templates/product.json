@@ -111,6 +111,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_hyBYH7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Prijs & Levertijd",
+            "icon": "heart",
+            "content": "<p><strong>Levertijd:<\/strong><\/p><ul><li>4-6 weken, afhankelijk van drukte<\/li><\/ul><p><strong>Prijs wordt bepaald door:<\/strong><\/p><ul><li>Inkoop stoel inc. verzendkosten<\/li><li>Materiaalkosten (kwasten, verf)<\/li><li>Tijd (schuren, verven, design, aflakken)<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -138,6 +147,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
+        "collapsible_tab_hyBYH7",
         "share",
         "rating_FgHRPQ"
       ],
