@@ -78,9 +78,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Werkwijze",
+            "heading": "Afmetingen",
             "icon": "leather",
-            "content": "<p>Ik schuur en verf de Tripp Trapps® helemaal opnieuw, ook nieuwe stoelen. Dit doe ik omdat ik anders niet kan garanderen dat het design goed blijft zitten: de verf kan niet hechten op afgelakt hout. Vervolgens krijgt de stoel een nieuwe basiskleur, die je zelf kunt kiezen. Daarop komt het design. Ik werk de stoelen af met 2 lagen doorzichtige lak.<\/p>",
+            "content": "<ul><li>Diepte: 28 cm<\/li><li>Breedte: 32cm<\/li><li>Hoogte: 56 cm<\/li><li>Zithoogte: 26 cm<\/li><li>Zitdiepte: 26 cm<\/li><\/ul>",
             "page": ""
           }
         },
@@ -99,15 +99,6 @@
             "heading": "Product informatie",
             "icon": "heart",
             "content": "<p><strong>Materiaal:<\/strong><\/p><ul><li>Europees beuken- of eikenhout<\/li><\/ul><p><strong>Afmetingen:<\/strong><\/p><ul><li>Afmetingen van de stoel na montage zijn 79 x 49 x 46 cm. Gewicht is 7 kg.<\/li><\/ul>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_hyBYH7": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Prijs & Levertijd",
-            "icon": "heart",
-            "content": "<p><strong>Levertijd:<\/strong><\/p><ul><li>4-6 weken, afhankelijk van drukte<\/li><\/ul><p><strong>Prijs wordt bepaald door:<\/strong><\/p><ul><li>Inkoop stoel inc. verzendkosten<\/li><li>Materiaalkosten (kwasten, verf)<\/li><li>Tijd (schuren, verven, design, aflakken)<\/li><\/ul>",
             "page": ""
           }
         },
@@ -138,7 +129,6 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-3",
-        "collapsible_tab_hyBYH7",
         "share",
         "text_XHUXyr"
       ],
