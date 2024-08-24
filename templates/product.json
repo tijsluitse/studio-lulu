@@ -105,9 +105,9 @@
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Instructions",
+            "heading": "Product informatie",
             "icon": "heart",
-            "content": "",
+            "content": "<p><strong>Materiaal:<\/strong><br\/>Europees beuken- of eikenhout<\/p><p><strong>Afmetingen:<br\/><\/strong>Afmetingen van de stoel na montage zijn 79 x 49 x 46 cm. Gewicht is 7 kg.<\/p>",
             "page": ""
           }
         },
