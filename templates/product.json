@@ -117,10 +117,11 @@
             "share_label": "Share"
           }
         },
-        "rating_FgHRPQ": {
-          "type": "rating",
-          "disabled": true,
+        "text_XHUXyr": {
+          "type": "text",
           "settings": {
+            "text": "Alle stoelen worden met de hand beschilderd. Dit betekent dat ze niet dezelfde gladde en smetteloze afwerking hebben als een fabrieksproduct.",
+            "text_style": "body"
           }
         }
       },
@@ -139,7 +140,7 @@
         "collapsible-row-3",
         "collapsible_tab_hyBYH7",
         "share",
-        "rating_FgHRPQ"
+        "text_XHUXyr"
       ],
       "settings": {
         "enable_sticky_info": true,
