@@ -89,16 +89,7 @@
           "settings": {
             "heading": "Nieuwe, tweedehands of eigen stoel?",
             "icon": "truck",
-            "content": "<p>Heb je al een stoel? Dan betaal je alleen voor de bewerking en het design. Wil je er een stoel bij? Dan kun je een tweedehands stoel toevoegen (+€150) of een nieuwe stoel (+€250).<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Stoel inleveren",
-            "icon": "ruler",
-            "content": "<p>Je kunt je eigen stoel bij mij inleveren. Ik werk vanuit Amsterdam. Ophalen\/bezorgen kan tegen betaling: binnen 10 km €25 per rit, binnen 20 km €50 per rit.<\/p>",
+            "content": "<p>Heb je al een stoel? Dan betaal je alleen voor de bewerking en het design. Wil je er een stoel bij? Dan kun je een tweedehands stoel toevoegen (+€150) of een nieuwe stoel (+€250).<\/p><p><strong>Stoel inleveren:<br\/><\/strong>Je kunt je eigen stoel bij mij inleveren. Ik werk vanuit Amsterdam. Ophalen\/bezorgen kan tegen betaling: binnen 10 km €25 per rit, binnen 20 km €50 per rit.<\/p>",
             "page": ""
           }
         },
@@ -145,7 +136,6 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
         "collapsible-row-3",
         "collapsible_tab_hyBYH7",
         "share",
