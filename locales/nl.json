@@ -286,7 +286,7 @@
       "title": "Je winkelwagen",
       "caption": "Artikelen in winkelwagen",
       "remove_title": "{{ title }} verwijderen",
-      "note": "Speciale instructies voor bestelling",
+      "note": "Persoonlijke boodschap toevoegen:",
       "checkout": "Afrekenen",
       "empty": "Je winkelwagen is leeg",
       "cart_error": "Er is een fout opgetreden bij het bijwerken van je winkelwagen. Probeer het opnieuw.",
