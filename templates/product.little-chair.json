@@ -98,7 +98,7 @@
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Prijs",
+            "heading": "Prijs & levering",
             "icon": "none",
             "content": "<ul><li>Inkoop stoel inc. verzendkosten<\/li><li>Materiaalkosten (kwasten, verf)<\/li><li>Tijd (basisverf, design, aflakken)<\/li><\/ul>",
             "page": ""
