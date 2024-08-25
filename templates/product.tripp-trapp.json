@@ -63,10 +63,13 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
+            "image_1": "shopify:\/\/shop_images\/heart.svg",
             "heading_1": "Elk ontwerp is uniek",
             "icon_2": "box",
+            "image_2": "shopify:\/\/shop_images\/tulip.svg",
             "heading_2": "Levering binnen 3 tot 6 weken",
             "icon_3": "star",
+            "image_3": "shopify:\/\/shop_images\/dove.svg",
             "heading_3": "Leuk als kraamcadeau"
           }
         },
