@@ -22,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Op zoek naar een uniek cadeau? Say no more! Ik maak van elke oude of nieuwe stoel een EIGEN stoel.",
+            "text": "Op zoek naar een uniek cadeau? Say no more!<\/br>Ik maak van elke oude of nieuwe stoel een EIGEN stoel.",
             "text_style": "body"
           }
         },
@@ -50,7 +50,7 @@
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
