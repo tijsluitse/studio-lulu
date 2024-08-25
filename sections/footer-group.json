@@ -38,6 +38,9 @@
         "paragraph_WaKk3T",
         "email_form_FP4kHF"
       ],
+      "custom_css": [
+        "footer {border: solid .1rem rgba(var(--color-foreground),.08)}"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "full_width": true,
