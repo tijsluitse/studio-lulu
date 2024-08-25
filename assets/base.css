@@ -3567,6 +3567,8 @@ details-disclosure > details {
   }
 }
 
+/* Tijs */
+
 .product__tax.caption.rte {
   display: none;
 }
@@ -3580,4 +3582,8 @@ details-disclosure > details {
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-right: 0;
   border-left: 0;
+}
+
+.product__info-container .product-form {
+  margin-top: 0;
 }
