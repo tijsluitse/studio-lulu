@@ -111,8 +111,8 @@
 
         /* --font-body-scale: {{ settings.body_scale | divided_by: 100.0 }}; */
         /* --font-heading-scale: {{ settings.heading_scale | times: 1.0 | divided_by: settings.body_scale }}; */
-        --font-body-scale: 1;
-        --font-heading-scale: 0.9;
+        --font-body-scale: {{ settings.body_scale | divided_by: 100.0 }};
+        --font-heading-scale: {{ settings.heading_scale | times: 1.0 | divided_by: settings.body_scale }};
 
         --media-padding: {{ settings.media_padding }}px;
         --media-border-opacity: {{ settings.media_border_opacity | divided_by: 100.0 }};
