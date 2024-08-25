@@ -168,7 +168,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Perfect cadeau<\/p>",
+            "text": "<p>Perfect kraamcadeau of verjaardagscadeau<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,7 +177,7 @@
           "type": "column",
           "settings": {
             "title": "☀",
-            "text": "<p>Levering gemiddeld<br\/>binnen 4 tot 6 weken<\/p>",
+            "text": "<p>Levering: gemiddeld<br\/>4 tot 6 weken<\/p>",
             "link_label": "",
             "link": ""
           }
