@@ -184,7 +184,7 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "product_variants": "Productvarianten",
-      "taxes_included": "Belastingen inbegrepen.",
+      "taxes_included": "Incl. BTW",
       "duties_included": "Douanerechten inbegrepen.",
       "duties_and_taxes_included": "Douanerechten en belastingen inbegrepen."
     },
