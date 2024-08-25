@@ -126,6 +126,13 @@
             "text": "Disclaimer: Alle stoelen worden met de hand beschilderd. Dit betekent dat ze niet dezelfde gladde en smetteloze afwerking hebben als een fabrieksproduct.",
             "text_style": "subtitle"
           }
+        },
+        "popup_mUgJqK": {
+          "type": "popup",
+          "settings": {
+            "text": "Nieuwe, tweedehands of eigen stoel?",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -143,7 +150,8 @@
         "collapsible-row-3",
         "collapsible_tab_hyBYH7",
         "share",
-        "text_XHUXyr"
+        "text_XHUXyr",
+        "popup_mUgJqK"
       ],
       "settings": {
         "enable_sticky_info": true,
