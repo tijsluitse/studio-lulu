@@ -79,7 +79,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Afmetingen",
-            "icon": "leather",
+            "icon": "none",
             "content": "<ul><li>Diepte: 28 cm<\/li><li>Breedte: 32cm<\/li><li>Hoogte: 56 cm<\/li><li>Zithoogte: 26 cm<\/li><li>Zitdiepte: 26 cm<\/li><\/ul>",
             "page": ""
           }
@@ -88,7 +88,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Levering",
-            "icon": "truck",
+            "icon": "none",
             "content": "<p>2-3 weken, afhankelijk van drukte<\/p>",
             "page": ""
           }
@@ -97,7 +97,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Prijs",
-            "icon": "heart",
+            "icon": "none",
             "content": "<ul><li>Inkoop stoel inc. verzendkosten<\/li><li>Materiaalkosten (kwasten, verf)<\/li><li>Tijd (basisverf, design, aflakken)<\/li><\/ul>",
             "page": ""
           }
