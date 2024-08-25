@@ -3568,6 +3568,6 @@ details-disclosure > details {
 }
 
 /* Tijs */
-.product__tax caption rte {
+.product__tax.caption.rte {
   display: none;
 }
