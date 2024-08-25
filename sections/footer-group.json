@@ -70,7 +70,7 @@
           "type": "text",
           "settings": {
             "heading": "Levering",
-            "subtext": "<p>Levering gemiddeld binnen 4-6 weken. Vragen? Stuur me een mailtje op info@studio-lulu.nl.<\/p>"
+            "subtext": "<p>Levering gemiddeld 4-6 weken. Vragen? Stuur me een mailtje op <a href=\"mailto:info@studio-lulu.nl\" title=\"mailto:info@studio-lulu.nl\">info@studio-lulu.nl<\/a>.<\/p>"
           }
         },
         "footer-0": {
