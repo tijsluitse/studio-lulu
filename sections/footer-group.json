@@ -88,7 +88,7 @@
         "footer-0"
       ],
       "custom_css": [
-
+        "footer.footer {border: solid 0.1rem rgba(var(--color-foreground), 0.08) !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
