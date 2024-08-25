@@ -18,7 +18,7 @@
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
-    "spacing_grid_horizontal": 8,
+    "spacing_grid_horizontal": 16,
     "spacing_grid_vertical": 8,
     "animations_hover_elements": "vertical-lift",
     "buttons_border_thickness": 1,
@@ -177,7 +177,7 @@
           "text": "#121212",
           "button": "#9256d8",
           "button_label": "#ffffff",
-          "secondary_button_label": "#ffffff",
+          "secondary_button_label": "#9256d8",
           "shadow": "#121212"
         }
       },
