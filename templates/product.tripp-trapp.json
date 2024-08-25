@@ -90,7 +90,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Nieuwe, tweedehands of eigen stoel?",
+            "heading": "Type stoel",
             "icon": "none",
             "content": "<p>Heb je al een stoel? Dan betaal je alleen voor de bewerking en het design. Wil je er een stoel bij? Dan kun je een tweedehands stoel toevoegen (+€150) of een nieuwe stoel (+€250).<\/p><p><strong>Stoel inleveren:<br\/><\/strong>Je kunt je eigen stoel bij mij inleveren. Ik werk vanuit Amsterdam. Ophalen\/bezorgen kan tegen betaling: binnen 10 km €25 per rit, binnen 20 km €50 per rit.<\/p>",
             "page": ""
@@ -101,7 +101,7 @@
           "settings": {
             "heading": "Productinformatie",
             "icon": "none",
-            "content": "<p><strong>Materiaal:<\/strong><\/p><ul><li>Europees beuken- of eikenhout<\/li><\/ul><p><strong>Afmetingen:<\/strong><\/p><ul><li>Afmetingen van de stoel na montage zijn 79 x 49 x 46 cm. Gewicht is 7 kg.<\/li><\/ul>",
+            "content": "<p>Materiaal:<\/p><ul><li>Europees beuken- of eikenhout<\/li><\/ul><p>Afmetingen:<\/p><ul><li>Afmetingen van de stoel na montage zijn 79 x 49 x 46 cm. Gewicht is 7 kg.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -126,13 +126,6 @@
             "text": "Disclaimer: Alle stoelen worden met de hand beschilderd. Dit betekent dat ze niet dezelfde gladde en smetteloze afwerking hebben als een fabrieksproduct.",
             "text_style": "subtitle"
           }
-        },
-        "popup_mUgJqK": {
-          "type": "popup",
-          "settings": {
-            "text": "Nieuwe, tweedehands of eigen stoel?",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -150,8 +143,7 @@
         "collapsible-row-3",
         "collapsible_tab_hyBYH7",
         "share",
-        "text_XHUXyr",
-        "popup_mUgJqK"
+        "text_XHUXyr"
       ],
       "settings": {
         "enable_sticky_info": true,
