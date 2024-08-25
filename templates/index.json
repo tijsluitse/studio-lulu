@@ -57,6 +57,73 @@
         "show_text_below": false
       }
     },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart.svg",
+            "title": "",
+            "text": "<p>Uniek: iedere stoel is handbeschilderd<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AkjbUw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flower.svg",
+            "title": "",
+            "text": "<p>Duurzaam: geef je stoel een tweede leven<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KXh9ne": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dove.svg",
+            "title": "",
+            "text": "<p>Perfect kraamcadeau of verjaardagscadeau<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yEYGfk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tulip.svg",
+            "title": "",
+            "text": "<p>Levering: gemiddeld<br\/>4 tot 6 weken<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column_AkjbUw",
+        "column_KXh9ne",
+        "column_yEYGfk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 16
+      }
+    },
     "image_with_text_PP79rf": {
       "type": "image-with-text",
       "blocks": {
@@ -139,82 +206,15 @@
         "quick_add": "none",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/heart.svg",
-            "title": "",
-            "text": "<p>Uniek: iedere stoel is handbeschilderd<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_AkjbUw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/flower.svg",
-            "title": "",
-            "text": "<p>Duurzaam: geef je stoel een tweede leven<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_KXh9ne": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dove.svg",
-            "title": "",
-            "text": "<p>Perfect kraamcadeau of verjaardagscadeau<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yEYGfk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tulip.svg",
-            "title": "",
-            "text": "<p>Levering: gemiddeld<br\/>4 tot 6 weken<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column_AkjbUw",
-        "column_KXh9ne",
-        "column_yEYGfk"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "image_banner",
+    "multicolumn",
     "image_with_text_PP79rf",
-    "featured_collection",
-    "multicolumn"
+    "featured_collection"
   ]
 }
