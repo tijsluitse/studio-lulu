@@ -3567,15 +3567,10 @@ details-disclosure > details {
   }
 }
 
-/* Tijs */
 .product__tax.caption.rte {
   display: none;
 }
-/*
-.accordion__title {
-  font-family: var(--font-body-family);
-}
-*/
+
 .header__search {
   display: none;
 }
