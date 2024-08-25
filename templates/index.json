@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/tulip.svg",
             "title": "",
-            "text": "<p>Levering: gemiddeld<br\/>4 tot 6 weken<\/p>",
+            "text": "<p>Levering gemiddeld<br\/>4 tot 6 weken<\/p>",
             "link_label": "",
             "link": ""
           }
