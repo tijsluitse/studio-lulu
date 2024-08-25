@@ -3571,7 +3571,8 @@ details-disclosure > details {
 .product__tax.caption.rte {
   display: none;
 }
-
+/*
 .accordion__title {
   font-family: var(--font-body-family);
 }
+*/
