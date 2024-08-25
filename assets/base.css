@@ -3566,3 +3566,8 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+/* Tijs */
+.product__tax caption rte {
+  display: none;
+}
