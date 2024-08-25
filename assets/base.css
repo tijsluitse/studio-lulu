@@ -3571,6 +3571,6 @@ details-disclosure > details {
   display: none;
 }
 
-.header__search {
-  display: none;
+.header__icons .header__search {
+  display: none !important;
 }
