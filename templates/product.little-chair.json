@@ -254,6 +254,7 @@
         "column_zM7TK6": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/studio-lulu_photo-4.jpg",
             "title": "",
             "text": "<p>“Deze kinderstoel is echt prachtig! Het handgeschilderde ontwerp is zo gedetailleerd en kleurrijk, het fleurt de hele kamer op.\"<\/p>",
             "link_label": "@sarahchronis",
@@ -263,6 +264,7 @@
         "column_iD6nd4": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/studio-lulu_klein-stoeltje_image-2.png",
             "title": "",
             "text": "<p>“We hebben deze stoel als kraamcadeau gekregen, en wat een geweldige verrassing was dat!\"<\/p>",
             "link_label": "@milouterpijn",
@@ -272,10 +274,11 @@
         "column_3UBaDx": {
           "type": "column",
           "settings": {
-            "title": "Kolom",
-            "text": "<p>Plaats een afbeelding bij stukken tekst om de aandacht op je gekozen product, collectie of blogpost te richten. Voeg details over beschikbaarheid en stijl toe of plaats een productrecensie.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/studio-lulu_tripp-trapp-stoel_image-2.png",
+            "title": "",
+            "text": "<p>\"Mijn dochtertje is er dol op en gebruikt hem elke dag. Het voelt goed om iets te hebben dat speciaal voor haar is gemaakt. Zeker een aanrader voor ouders die iets unieks willen!”<\/p>",
+            "link_label": "@pienstieglis",
+            "link": "#"
           }
         }
       },
