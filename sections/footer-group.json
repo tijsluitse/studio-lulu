@@ -11,6 +11,40 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "newsletter_qKiazT": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Awhz6d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Abonneren op onze e-mails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_WaKk3T": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Kom als eerste te weten als er nieuwe collecties en exclusieve aanbiedingen zijn.<\/p>"
+          }
+        },
+        "email_form_FP4kHF": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_Awhz6d",
+        "paragraph_WaKk3T",
+        "email_form_FP4kHF"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -18,21 +52,28 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/logo-colored.svg",
-            "image_width": 200,
-            "alignment": ""
+            "image_width": 150,
+            "alignment": "center"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "",
-            "subtext": "<p>Duurzaam en origineel: LULU’s gepersonaliseerde kinderstoelen.<\/p>"
+            "heading": "<strong>Studio LULU<\/strong>",
+            "subtext": "<p>Duurzaam en origineel: <br\/>LULU’s gepersonaliseerde kinderstoelen.<\/p>"
+          }
+        },
+        "text_DkFaGA": {
+          "type": "text",
+          "settings": {
+            "heading": "Ophalen & Levering",
+            "subtext": "<p>Deel contactgegevens, winkelgegevens en merkcontent met klanten.<\/p>"
           }
         },
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "",
+            "heading": "<strong>Menu<\/strong>",
             "menu": "main-menu"
           }
         }
@@ -40,11 +81,12 @@
       "block_order": [
         "image_WqqYgV",
         "footer-2",
+        "text_DkFaGA",
         "footer-0"
       ],
       "settings": {
         "color_scheme": "scheme-2",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Op de hoogte blijven?",
         "enable_follow_on_shop": false,
         "show_social": true,
@@ -59,6 +101,7 @@
     }
   },
   "order": [
+    "newsletter_qKiazT",
     "footer"
   ]
 }

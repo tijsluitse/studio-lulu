@@ -79,7 +79,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Werkwijze",
-            "icon": "leather",
+            "icon": "none",
             "content": "<p>Ik schuur en verf de Tripp Trapps® helemaal opnieuw, ook nieuwe stoelen. Dit doe ik omdat ik anders niet kan garanderen dat het design goed blijft zitten: de verf kan niet hechten op afgelakt hout. Vervolgens krijgt de stoel een nieuwe basiskleur, die je zelf kunt kiezen. Daarop komt het design. Ik werk de stoelen af met 2 lagen doorzichtige lak.<\/p>",
             "page": ""
           }
@@ -88,7 +88,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Nieuwe, tweedehands of eigen stoel?",
-            "icon": "truck",
+            "icon": "none",
             "content": "<p>Heb je al een stoel? Dan betaal je alleen voor de bewerking en het design. Wil je er een stoel bij? Dan kun je een tweedehands stoel toevoegen (+€150) of een nieuwe stoel (+€250).<\/p><p><strong>Stoel inleveren:<br\/><\/strong>Je kunt je eigen stoel bij mij inleveren. Ik werk vanuit Amsterdam. Ophalen\/bezorgen kan tegen betaling: binnen 10 km €25 per rit, binnen 20 km €50 per rit.<\/p>",
             "page": ""
           }
@@ -97,7 +97,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Product informatie",
-            "icon": "heart",
+            "icon": "none",
             "content": "<p><strong>Materiaal:<\/strong><\/p><ul><li>Europees beuken- of eikenhout<\/li><\/ul><p><strong>Afmetingen:<\/strong><\/p><ul><li>Afmetingen van de stoel na montage zijn 79 x 49 x 46 cm. Gewicht is 7 kg.<\/li><\/ul>",
             "page": ""
           }
