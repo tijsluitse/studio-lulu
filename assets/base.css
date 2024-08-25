@@ -3576,3 +3576,6 @@ details-disclosure > details {
   font-family: var(--font-body-family);
 }
 */
+.header__search {
+  display: none;
+}
